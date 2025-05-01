@@ -21,16 +21,6 @@
 </p>
 
 ---
-
-### 👨‍💻 What I Do
-
-- 🚀 Frontend development with **React.js**, **Next.js**, and **TailwindCSS**
-- 🧩 Full-stack web applications using **MERN** and **PostgreSQL**
-- ☁️ DevOps automation with **AWS**, **Docker**, and **GitHub Actions**
-- 🧠 AI/LLM integration with **OpenAI APIs** for intelligent UX
-- 🎨 Crafting pixel-perfect, mobile-first UIs and design systems
-
----
 ### 🚀 Tech Stack
 
 <p align="center">
@@ -61,6 +51,16 @@
 </p>
 
 ---
+### 👨‍💻 What I Do
+
+- 🚀 Frontend development with **React.js**, **Next.js**, and **TailwindCSS**
+- 🧩 Full-stack web applications using **MERN** and **PostgreSQL**
+- ☁️ DevOps automation with **AWS**, **Docker**, and **GitHub Actions**
+- 🧠 AI/LLM integration with **OpenAI APIs** for intelligent UX
+- 🎨 Crafting pixel-perfect, mobile-first UIs and design systems
+
+---
+
 ### 🎯 Currently Learning
 
 - 🎥 **Three.js** and **React-Three-Fiber** for 3D user interfaces  
