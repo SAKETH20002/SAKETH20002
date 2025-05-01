@@ -13,11 +13,11 @@
 ### 💡 About Me
 
 <div align="center">
-  <img src="https://assets10.lottiefiles.com/packages/lf20_tno6cg2w.json" width="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </div>
 
 <p align="center">
-  I'm a <strong>Frontend Developer</strong> from India who blends design and development to build powerful, scalable, and beautiful web applications.
+  I'm a <strong>Full Stack Developer</strong> from India who blends design and development to build powerful, scalable, and beautiful web applications.
 </p>
 
 ---
